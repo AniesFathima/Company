@@ -49,6 +49,7 @@ public class Company  {
 	public static void main(String[] args) {
 		Company c = new Company();
 		c.daySelection(8);
+		System.out.println("Finally learned the Git and Git hub concepts");
 		
 	}
 	
